@@ -33,5 +33,6 @@ https://pl.reactjs.org/docs/context.html#dynamic-context
 <br/>
 React function or class discussion
 https://stackoverflow.com/questions/36097965/when-to-use-es6-class-based-react-components-vs-functional-es6-react-components
+<br/>
 Example how not login user each  test
 https://github.com/goldbergyoni/javascript-testing-best-practices/blob/master/readme-pl.md#-%EF%B8%8F-38-przyspiesz-testy-e2e-poprzez-ponowne-u%C5%BCycie-danych-logowania
